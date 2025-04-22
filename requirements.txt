@@ -1,5 +1,8 @@
 # Core Python Compatibility
-python-3.10.12
+streamlit
+numpy
+pandas
+
 
 # Machine Learning & Deep Learning
 tensorflow==2.16.1
