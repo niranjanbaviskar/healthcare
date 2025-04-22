@@ -1,5 +1,5 @@
 # Core Python Compatibility
-python_version >=3.9, <3.12
+python-3.10.12
 
 # Machine Learning & Deep Learning
 tensorflow==2.16.1
